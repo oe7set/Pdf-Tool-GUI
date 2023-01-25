@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/docx.png</file>
+    <file>icons/merge.png</file>
+    <file>icons/split.png</file>
+    <file>icons/file-plus.svg</file>
+    <file>icons/file-text.svg</file>
+    <file>icons/image.svg</file>
+    <file>icons/settings.svg</file>
+    <file>icons/x.svg</file>
+    <file>icons/x-square.svg</file>
+    <file>icons/maximize-2.svg</file>
+    <file>icons/chevron-down.svg</file>
+  </qresource>
+</RCC>
