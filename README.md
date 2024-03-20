@@ -22,3 +22,7 @@ $ pyside2-uic form.ui -o form.py
 ```bash
 $ pyside2-rcc icons.qrc -o icons_rc.py
 ```
+
+<a href="https://github.com/GschoesserPhilipp/Pdf-Tool-GUI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GschoesserPhilipp/Pdf-Tool-GUI" />
+</a>
